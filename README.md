@@ -37,7 +37,7 @@ The Online Store wants to create an annual sales report for 2022. So that, the o
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## **Dashboard**
-![Screenshot (495)](https://github.com/user-attachments/assets/5826cd81-b51c-420b-86e6-8b830982d77f)
+![Screenshot (495)](C:\Users\HP\Pictures\Screenshots\Screenshot 2025-04-10 110725.png)
 
 
 
